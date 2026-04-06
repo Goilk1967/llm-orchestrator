@@ -1,0 +1,1 @@
+Update documentation and internal logic - iteration 1
